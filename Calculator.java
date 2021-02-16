@@ -108,7 +108,7 @@ public class Calculator {
 	}
 
 
-	//Error 
+	//Error Handle
 	public void runner()
 		{
 			try{
