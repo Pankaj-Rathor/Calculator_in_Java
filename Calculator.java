@@ -89,7 +89,13 @@ public class Calculator {
 			case "e":
 				run = false;
 				break;
-				
+					
+			case "h":
+				System.out.println("c = Clean");
+				System.out.println("e = Exit");
+				System.out.println("h = Help");
+				break;
+					
 			default:
 				System.out.print("You'r Enter Invalid Input \n");
 				calculate();
