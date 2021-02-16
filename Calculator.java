@@ -14,7 +14,7 @@ public class Calculator {
 		boolean run = true;
 		while(run)
 		{
-			System.out.print("Oprand : ");
+			System.out.print("Operator : ");
 			String o = getString();
 			switch(o) 
 			{
